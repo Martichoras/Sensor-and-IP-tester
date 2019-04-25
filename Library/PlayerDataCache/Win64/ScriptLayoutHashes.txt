@@ -1,8 +1,8 @@
 WindowsStandalone
 PlayerPath?
-G:/PhD files/UI project/Sensor og IP-tester/Sensor og IP-tester (version 1.2)/Sensor og IP-tester (version 1.2).exe
+F:/Emil Folder/1) FREDERIKSBERG/Sensor-and-IP-tester/Builds/Sensor og IP-tester (version 1.2)/Sensor og IP-tester (version 1.2).exe
 SceneListBegin?
-Assets/UDP Test scene.unity
+Assets/Main.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -158,11 +158,9 @@ e53cc67d84060d628c7f03fc725766d8 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 93c79d9898c96227c3913847eb39db63 Assembly-CSharp.dll:TMPro.Examples.ShaderPropAnimator
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:TMPro.Examples.TMP_TextSelector_A
 003d9149deb0a5e04174ae87edc71910 Assembly-CSharp.dll:.GameManager
-ddcae71b3f91386237efd012a9eef2be UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
 486cd95c82d8305219c352c06b776e1f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 e033f131358cea5a0eabf9561e781deb UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 9d863b523b577f5c3d915351a74cd338 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
-486cd95c82d8305219c352c06b776e1f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.TestResultRendererCallback
 1a90b221dc803408fbafa883c12bcab4 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioListenerExtension
 70f7dc248db3379548a88e8d4fa049f8 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
